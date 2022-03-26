@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
+name: Akula Games
 title: Akula Games
+url: "http://www.akula-games.com"
+markdown: kramdown
