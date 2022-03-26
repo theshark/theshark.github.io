@@ -20,14 +20,10 @@
 
 title: Akula Games
 email: sabraham@akula-games.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Austin-area indie game developer and contractor
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: http://www.akula-games.com
 url: http://www.akula-games.com # the base hostname & protocol for your site, e.g. http://example.com
-github_username: theshark 
 
 # Build settings
 theme: minima

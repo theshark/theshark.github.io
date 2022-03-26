@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Akula Games, founded in 2010, develops game applications for the iPhone mobile platform.  Games may begin as entertainment, but we believe they can additionally be collaborative, educational and artistic. With this in mind, we strive to create games that tap into these elements...while remaining thoroughly fun and engaging.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+"Akula" is the romanization of <i>&#x430;&#x43A;&#x443;&#x43B;&#x430;</i>, which means "shark" in Russian. As the company founder is fond of sharks, Russian literature and video games, it seemed like the ideal choice in naming.
