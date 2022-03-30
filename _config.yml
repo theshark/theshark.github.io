@@ -24,12 +24,19 @@ description: Austin-area indie game developer and contractor
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: http://www.akula-games.com
 url: http://www.akula-games.com # the base hostname & protocol for your site, e.g. http://example.com
+paginate: 5
+paginate_path: /blog/page:num
+atom_feed: 
+  hide: true
 
 # Build settings
 #theme: jekyll-theme-so-simple
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

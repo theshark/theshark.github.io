@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Welcome to Akula Games"
 date:   2022-03-26 12:50:11 -0500
 categories: general

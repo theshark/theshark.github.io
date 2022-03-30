@@ -10,7 +10,7 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 4.2.2"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
-gem "jekyll-theme-so-simple"
+gem "minimal-mistakes-jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -20,6 +20,8 @@ gem "jekyll-theme-so-simple"
 group :jekyll_plugins do
   gem "github-pages", group: :jekyll_plugins
 end
+
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
