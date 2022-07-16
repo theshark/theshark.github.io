@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Akula Games
-email: sabraham@akula-games.com
-description: Austin-area indie game developer and contractor
+email: akulagames@proton.me
+description: Austin-area indie game developer and creator
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: http://www.akula-games.com
 url: http://www.akula-games.com # the base hostname & protocol for your site, e.g. http://example.com

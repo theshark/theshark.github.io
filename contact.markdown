@@ -6,4 +6,4 @@ permalink: /contact/
 
 Questions or comments regarding the Akula Games website or products?
 
-Let us know at support@akula-games.com
+Let us know at akulagames@proton.me
