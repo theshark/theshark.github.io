@@ -6,6 +6,8 @@ permalink: /about/
 
 Akula Games is an independent game developer and creator based in Austin, TX. "Akula" is the romanization of <i>&#x430;&#x43A;&#x443;&#x43B;&#x430;</i>, which means "shark" in Russian. As the company founder is fond of sharks, Russian literature and video games, it seemed like the ideal choice in naming.
 
+If you are interested in the light novel series, <i>Triple Strike</i>i>, or game projects such as <i>Capybara Cafe</i> and <i>Skazka</i>, please join the mailing list below for updates and announcments! This mailing list is used solely for for receiving annoucements about release dates and any associated blog posts. Your information will not be shared with anyone for any reason.
+
 <p><br><br><p>
 
 <!-- Begin Mailchimp Signup Form -->
