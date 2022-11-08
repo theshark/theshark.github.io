@@ -4,7 +4,7 @@ title: Triple Strike
 permalink: /projects/triplestrike
 ---
 
-A sci-fi action comedy adventure queer romance about alien space pirates and the human who joins the crew after being "accidentally" kidnapped.
+ A sci-fi comedy-adventure queer-romance light novel...with space pirates! 
 
 ### Triple Strike: Threads of Fate (Book 1)
 
