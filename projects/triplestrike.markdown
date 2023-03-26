@@ -15,4 +15,4 @@ Also available on itch.io as a DRM-free .epub!
 
 ### Triple Strike: Pasts Revisited (Book 2)
 
-| ![Triple Strike: Pasts Revisited ](/images/triplestrike/book2_preview.png "Triple Strike: Pasts Revisisted"){:width="300px"} | Coming in late 2022! |
+| ![Triple Strike: Pasts Revisited ](/images/triplestrike/book2_cover.png "Triple Strike: Pasts Revisisted"){:width="300px"} | Coming in April 2023! |
