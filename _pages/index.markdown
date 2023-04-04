@@ -5,7 +5,6 @@
 layout: single
 header:
   image: /images/akulagames_header.jpg
-categories:
-
+permalink: /
 ---
 

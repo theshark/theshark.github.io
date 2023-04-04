@@ -8,8 +8,8 @@ Akula Games is working on several personal projects as an independent developer 
 
 ## Games
 
-[![Capybara Cafe](/images/capybaracafe/capybaracafe_title.png "Capybara Cafe")](/projects/capybaracafe)
+[![Capybara Cafe](/images/capybaracafe/capybaracafe_title.png "Capybara Cafe")](capybaracafe)
 
 ## Books
 
-[![Triple Strike](/images/triplestrike/triplestrike_title.png "Triple Strike")](/projects/triplestrike)
+[![Triple Strike](/images/triplestrike/triplestrike_title.png "Triple Strike")](triplestrike)

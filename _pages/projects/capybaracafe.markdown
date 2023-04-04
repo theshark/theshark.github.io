@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Capybara Cafe
-permalink: /projects/capybaracafe
+permalink: /projects/capybaracafe/
 ---
 
 Create refreshing drinks and parfaits for the local capybara denizens in this relaxing puzzle game. Learn their favorite drinks and make friends to help them through their capybara existential crises.
