@@ -38,7 +38,7 @@ But who has time for romance when there's a new, unknown threat to interstellar 
 
 As the pyreans say — romance is more fun when somebody’s alive to enjoy it!
 
-Threads of Fate includes seven illustrations plus additional bonus content and comics.
+Threads of Fate is the first book in the Triple Strike series, and it includes seven illustrations plus additional bonus content and comics.
 
 ## Gallery
 

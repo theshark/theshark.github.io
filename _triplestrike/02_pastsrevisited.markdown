@@ -33,7 +33,7 @@ Accidental kidnapping aside, Alan has come to think of the Swallow as his home a
 
 And if he can finally recognize flirting when he sees it? So much the better!
 
-Pasts Revisited includes seven illustrations plus additional bonus content and comics.
+Pasts Revisited is the second book in the Triple Strike series, and it includes seven illustrations plus additional bonus content and comics.
 
 ## Gallery
 
