@@ -10,12 +10,20 @@ gallery:
 toc: true
 toc_label: "Learn More"
 toc_sticky: true
+
+carousels:
+  - images:
+    - image: /images/triplestrike/book2_gallery01.png
+    - image: /images/triplestrike/book2_gallery02.png
+    - image: /images/triplestrike/book2_gallery03.png
+    - image: /images/triplestrike/book2_gallery04.png
+
 permalink: /projects/triplestrike/pastsrevisited
 ---
 
-## Coming Soon!
+## Available Now!
 
-| ![Triple Strike: Pasts Revisited ](/images/triplestrike/book2_cover.png "Triple Strike: Pasts Revisited"){:width="400px"} | Coming in April 2023!
+| ![Triple Strike: Pasts Revisited ](/images/triplestrike/book2_cover.png "Triple Strike: Pasts Revisited"){:width="400px"} | Available in paperback on: <br> [Amazon](https://www.amazon.com/dp/B0C1J2GTYD) <br><br> Available as ebook on: <br> [Amazon](https://www.amazon.com/dp/B0C2LXTJBG) <br> [Kobo](https://www.kobo.com/us/en/ebook/triple-strike-pasts-revisited) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1143362093) <br>
 
 ## Summary
 
@@ -26,3 +34,7 @@ Accidental kidnapping aside, Alan has come to think of the Swallow as his home a
 And if he can finally recognize flirting when he sees it? So much the better!
 
 Pasts Revisited includes seven illustrations plus additional bonus content and comics.
+
+## Gallery
+
+  {% include carousel.html height="700" unit="px" number="1" %}
