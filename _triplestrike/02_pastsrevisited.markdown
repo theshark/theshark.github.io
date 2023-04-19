@@ -26,7 +26,7 @@ permalink: /projects/triplestrike/pastsrevisited
 | ![Triple Strike: Pasts Revisited ](/images/triplestrike/book2_cover.png "Triple Strike: Pasts Revisited"){:width="400px"} | Available in paperback on: <br> [Amazon](https://www.amazon.com/dp/B0C1J2GTYD) <br><br> Available as ebook on: <br> [Amazon](https://www.amazon.com/dp/B0C2LXTJBG) <br> [Kobo](https://www.kobo.com/us/en/ebook/triple-strike-pasts-revisited) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1143362093) <br>
 
 Also available on itch.io as a DRM-free .epub!
-<iframe src="https://itch.io/embed/2024735" width="552" height="167" frameborder="0"><a href="https://akula-games.itch.io/triple-strike-pasts-revisited">Triple Strike: Pasts Revisited by Akula Games</a></iframe>
+<iframe src="https://itch.io/embed/2024735?link_color=8A528A" width="552" height="167" frameborder="0"><a href="https://akula-games.itch.io/triple-strike-pasts-revisited">Triple Strike: Pasts Revisited by Akula Games</a></iframe>
 
 ## Summary
 
