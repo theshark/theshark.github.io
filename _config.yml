@@ -44,9 +44,6 @@ collections:
   triplestrike:
     output: true
     permalink: /projects/triplestrike/
-  book1gallery:
-    output: true
-    permalink: /projects/triplestrike/book1gallery
 
 #defaults:
 #  # _gallery
