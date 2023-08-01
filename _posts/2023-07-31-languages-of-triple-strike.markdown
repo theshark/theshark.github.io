@@ -16,9 +16,9 @@ This means, of the numerous human and pyrean languages used across the colonies,
 
 **International Human (IH):** A conlang (constructed language) that developed about 700 Universal years ago during early human space colonization. It's basically space Esperanto. As such, it's the lingua franca across the human colonies. Any human planning to participate in interstellar trade or travel would be expected to speak it proficiently at minimum, and organizations such as the Elite Academy conduct all classes in IH accordingly. 
 
-When Alan and Colin talk to each other, they're probably are using IH, since Alan's "first" languages are English, French, and Drakeean, while Colin's "first" languages are Mandarin and Portuguese.
+When Alan and Colin talk to each other, they're probably using IH, since Alan's "first" languages are English, French, and Drakeean, while Colin's "first" languages are Mandarin and Portuguese.
 
-**United Pyrean (UP):** A pidgin/trade language that developed 3000 Universal years ago and is now its own fully-developed, completely independent language. It's been used as a trade language between pyrean tribes since before escaping the gravity well, and it continues to be the standard in the IPC. It would be unusual to meet a pyrean who is not at least proficient in UP. For example, Alan has spoken UP since his childhood on Nibel despite it not being one of his "native" languages and he continues to speak it fluently. Colin also speaks UP (as is expected of Elite inspectors), but he has a noticeable human accent.
+**United Pyrean (UP):** A pidgin/trade language that developed 3000 Universal years ago and is now its own fully-developed, completely independent language. It's been used as a trade language between pyrean tribes since before escaping the gravity well, and it continues to be the standard in the IPC. It would be unusual to meet a pyrean who is not at least proficient in UP. For example, Alan has spoken UP since his childhood on Nibel despite it not being one of his "native" languages, and he continues to speak it fluently. Colin also speaks UP (as is expected of Elite inspectors), but he has a noticeable human accent.
 
 Most of the dialogue is in UP, since large chunks of the series take place on the Merry Swallow, which is an IPC vessel. While some Piracy Division crews might speak primarily in Fimmelian among themselves, Sven discourages this since he has a number of non-Fimmel crew members.
 
@@ -28,7 +28,7 @@ Dialogue in IPS is always explicitly described as being IPS in the books, since 
 
 **Ma'jenn(??):** Very little is known about the Ma'jenn language even among the pyrean xeno-anthropologists, who specialize in the ma'jenn, and the human ma'jennophiles, who are obsessed with ma'jenn culture (yes, there's a strong overlap with furries, and yes, they have ma'jennsonas). Most experts (from both groups) agree that ma'jenn vocalizations, which is called Ma'jenn, are only part of ma'jenn communication, which likely also includes body language and pheromones. Some ma'jennophiles think the ma'jenn are also telepathic, but that's a highly contentious theory even in the community. 
 
-No one is quite sure whether the greater ma'jenn hives (such as the Moon Empire) share a common language, or if the language identified as Ma'jenn is just the language of the Moon Empire, as it's the primary hive in contact with pyreans and humans, and most of the other tribes use Moon Empire routes when engaging with non-ma'jenn.
+No one is quite sure whether the greater ma'jenn hives (such as the Moon Empire) share a common language, or if the language identified as Ma'jenn is just the language of the Moon Empire, as it's the primary hive in contact with pyreans and humans, and most of the other hives use Moon Empire routes when engaging with non-ma'jenn.
 
 Questions or comments? Want to talk about novel writing or indie dev? Please contact me at [akulagames@proton.me](mailto:akulagames@proton.me), or join the Akula Games mailing list for blog and product updates.
 
