@@ -15,11 +15,11 @@ feature_row:
     alt: "Book 2 Pasts Revisited book cover"
     title: "Book 2: Pasts Revisited"
     excerpt: "Threads of the past threaten the future!"
-  - url: /images/triplestrike/book3_preview.png
-    image_path: images/triplestrike/book3_preview.png
+  - url: /projects/triplestrike/agatheringstorm
+    image_path: images/triplestrike/book3_cover.png
     alt: "Book 3 A Gathering Storm book cover"
     title: "Book 3: A Gathering Storm"
-    excerpt: "Winds of change sweep across the stars!"
+    excerpt: "Hearts bound by fate brace for the storm!"
 
 permalink: /projects/triplestrike
 ---
