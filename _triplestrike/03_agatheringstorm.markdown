@@ -23,7 +23,9 @@ permalink: /projects/triplestrike/agatheringstorm
 
 ## Available Now!
 
-| ![Triple Strike: A Gathering Storm ](/images/triplestrike/book3_cover.png "Triple Strike: A Gathering Storm"){:width="400px"} | Available in paperback on: <br> [Amazon](https://www.amazon.com/dp/B0CNQ1WZ9V) <br><br> Available as ebook on: <br> [Amazon](https://www.amazon.com/dp/B0CNPP9ZSS)<br>
+| ![Triple Strike: A Gathering Storm ](/images/triplestrike/book3_cover.png "Triple Strike: A Gathering Storm"){:width="400px"} | Available in paperback on: <br> [Amazon](https://www.amazon.com/dp/B0CNQ1WZ9V) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/book/1144409459) <br><br> Available as ebook on: <br> [Amazon](https://www.amazon.com/dp/B0CNPP9ZSS)
+<br> [Kobo](https://www.kobo.com/us/en/ebook/triple-strike-a-gathering-storm)
+<br> 
 
 Also available on itch.io as a DRM-free .epub!
 <iframe frameborder="0" src="https://itch.io/embed/2380431?link_color=8A528A" width="552" height="167"><a href="https://akula-games.itch.io/triple-strike-a-gathering-storm">Triple Strike: A Gathering Storm by Akula Games</a></iframe>
