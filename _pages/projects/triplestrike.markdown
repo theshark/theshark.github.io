@@ -26,7 +26,9 @@ permalink: /projects/triplestrike
 
  A sci-fi comedy-adventure queer-romance light novel...with space pirates! 
  
- Looking for a queer-normative space opera that's full of political intrigue, interspecies politics and romance, but is undeniably hopeful and very, very gay? Triple Strike might be for you! It's a little like if Discworld and Our Flag Means Death had a child with the aesthetic and political sensibilities somewhere between Gundam Wing and Captain Harlock. Triple Strike is G.M. Gray's debut novel series, and each volume includes at least seven of their illustrations plus bonus comics!
+ Looking for a queer-normative space opera that's part adventure, part political intrigue, part interspecies politics and romance, but is always hopeful, very gay, and brimming with banter? If so, Triple Strike might be for you! It's a little like if Discworld and Our Flag Means Death had a child with aesthetic and narrative sensibilities somewhere between Gundam Wing and Captain Harlock. 
+ 
+ Triple Strike is G.M. Gray's debut novel series, and each volume includes at least seven of their illustrations plus bonus comics.
  
 ## Books
 
