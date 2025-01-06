@@ -26,7 +26,7 @@ permalink: /projects/triplestrike
 
  A sci-fi comedy-adventure queer-romance light novel...with space pirates! 
  
- Looking for a queer-normative space opera that's part adventure, part political intrigue, part interspecies politics and romance, but is always hopeful, very gay, and brimming with banter? If so, Triple Strike might be for you! It's a little like if Discworld and Our Flag Means Death had a child with aesthetic and narrative sensibilities somewhere between Gundam Wing and Captain Harlock. 
+ Looking for a queer-normative space opera that's part adventure, part intrigue, part interspecies politics and romance, but is always hopeful, very gay, and brimming with banter? If so, Triple Strike might be for you! It's a little like if Discworld and Our Flag Means Death had a child with aesthetic and narrative sensibilities somewhere between Gundam Wing and Captain Harlock. 
  
  Triple Strike is G.M. Gray's debut novel series, and each volume includes at least seven of their illustrations plus bonus comics.
  
@@ -36,7 +36,7 @@ permalink: /projects/triplestrike
 
 ## Connect
 
-Waiting for updates? Want to know what other things G.M. is working on? You can follow them [on Instagram](https://www.instagram.com/gmgraywriting/) or join [their Discord](https://discord.com/invite/HtDtVqtZB2)!
+Waiting for updates? Want to know what other things G.M. is working on? You can follow them [on Instagram](https://www.instagram.com/gmgraywriting/), [on Bluesky](https://bsky.app/profile/gmgray.bsky.social) or join [their Discord](https://discord.com/invite/HtDtVqtZB2)!
 
 You can also join the Triple Strike/Akula Games mailing list. Your email will not be shared with anyone for any reason.
 
