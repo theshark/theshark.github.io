@@ -7,19 +7,29 @@ classes: wide
 feature_row:
   - url: /projects/triplestrike/threadsoffate
     image_path: images/triplestrike/book1_cover.png
+    image_size: 50%
     alt: "Book 1 Threads of Fate book cover"
     title: "Book 1: Threads of Fate"
     excerpt: "A bungled kidnapping changes the fate of the galaxy!"
   - url: /projects/triplestrike/pastsrevisited
     image_path: images/triplestrike/book2_cover.png
+    image_size: 50%
     alt: "Book 2 Pasts Revisited book cover"
     title: "Book 2: Pasts Revisited"
     excerpt: "Threads of the past threaten the future!"
   - url: /projects/triplestrike/agatheringstorm
     image_path: images/triplestrike/book3_cover.png
+    image_size: 50%
     alt: "Book 3 A Gathering Storm book cover"
     title: "Book 3: A Gathering Storm"
     excerpt: "Hearts bound by fate brace for the storm!"
+feature_row2:
+  - url: /projects/triplestrike/threadsunbound
+    image_path: images/triplestrike/book4_cover.png
+    image_size: 50%
+    alt: "Book 4 Threads Unbound book cover"
+    title: "Book 4: Threads Unbound"
+    excerpt: "Fate's tangled weave opens a new way forward!"	
 
 permalink: /projects/triplestrike
 ---
@@ -33,6 +43,8 @@ permalink: /projects/triplestrike
 ## Books
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
 
 ## Connect
 
