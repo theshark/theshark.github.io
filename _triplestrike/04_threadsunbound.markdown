@@ -23,10 +23,12 @@ permalink: /projects/triplestrike/threadsunbound
 
 ## Coming April 1st!
 
-| ![Triple Strike: Threads Unbound ](/images/triplestrike/book4_cover.png "Triple Strike: Threads Unbound"){:width="400px"} | Coming soon in paperback on: <br> Amazon <br> Barnes & Noble <br><br> Coming soon as ebook on: <br> [Amazon](https://www.amazon.com/dp/B0F27LQD42) <br> [Kobo](https://www.kobo.com/us/en/ebook/triple-strike-threads-unbound) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1147183873) <br>
+| ![Triple Strike: Threads Unbound ](/images/triplestrike/book4_cover.png "Triple Strike: Threads Unbound"){:width="400px"} | Available in paperback on: <br> [Amazon](https://www.amazon.com/dp/B0F29LS2K6) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1147183873) <br><br> Available as ebook on: <br> [Amazon](https://www.amazon.com/dp/B0F27LQD42) <br> [Kobo](https://www.kobo.com/us/en/ebook/triple-strike-threads-unbound) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1147183873) <br>
  
 
-Also coming soon on itch.io as a DRM-free .epub!
+Also available on itch.io as a DRM-free .epub!
+
+<iframe frameborder="0" src="https://itch.io/embed/3418185?bg_color=ffffff&amp;fg_color=222222&amp;link_color=8A528A&amp;border_color=484848" width="552" height="167"><a href="https://gmgray.itch.io/triple-strike-threads-unbound">Triple Strike: Threads Unbound by G.M. Gray</a></iframe>
 
 ## Summary
 
