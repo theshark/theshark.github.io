@@ -23,7 +23,7 @@ permalink: /projects/triplestrike/threadsoffate
 
 ## Available Now!
 
-| ![Triple Strike: Threads of Fate ](/images/triplestrike/book1_cover.png "Triple Strike: Threads of Fate"){:width="400px"} | Available in paperback on: <br> [Amazon](https://www.amazon.com/Triple-Strike-Threads-G-M-Gray/dp/B0BW2JDF72/) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1141621257) <br><br> Available as ebook on: <br> [Amazon](https://www.amazon.com/Triple-Strike-Threads-G-M-Gray-ebook/dp/B0BW69YFGR/) <br> [Kobo](https://www.kobo.com/us/en/ebook/triple-strike-threads-of-fate) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1141621257) <br>
+| ![Triple Strike: Threads of Fate ](/images/triplestrike/book1_cover.png "Triple Strike: Threads of Fate"){:width="400px"} | Available in paperback on: <br> [Amazon](https://www.amazon.com/Triple-Strike-Threads-G-M-Gray/dp/B0BW2JDF72/) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1141621257) <br> [Salient Books](https://salientbooks.shop/products/triple-strike-threads-of-fate) <br><br> Available as ebook on: <br> [Amazon](https://www.amazon.com/Triple-Strike-Threads-G-M-Gray-ebook/dp/B0BW69YFGR/) <br> [Kobo](https://www.kobo.com/us/en/ebook/triple-strike-threads-of-fate) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1141621257) <br><br> Additional info on [Books2Read](https://books2read.com/u/mgxo8R)
 
 Also available on itch.io as a DRM-free .epub!
 <iframe frameborder="0" src="https://itch.io/embed/1783516?linkback=true&amp;border_width=2&amp;link_color=8A528A" width="554" height="169"><a href="https://akula-games.itch.io/triple-strike-threads-of-fate">Triple Strike: Threads of Fate by Akula Games</a></iframe> 
@@ -43,4 +43,8 @@ Threads of Fate is the first book in the Triple Strike series, and it includes s
 ## Gallery
 
   {% include carousel.html height="700" unit="px" number="1" %}
+  
+## Excerpt
+
+TBD
   

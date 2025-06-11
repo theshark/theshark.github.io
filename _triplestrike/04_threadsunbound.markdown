@@ -23,7 +23,7 @@ permalink: /projects/triplestrike/threadsunbound
 
 ## Available Now!
 
-| ![Triple Strike: Threads Unbound ](/images/triplestrike/book4_cover.png "Triple Strike: Threads Unbound"){:width="400px"} | Available in paperback on: <br> [Amazon](https://www.amazon.com/dp/B0F29LS2K6) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1147183873) <br><br> Available as ebook on: <br> [Amazon](https://www.amazon.com/dp/B0F27LQD42) <br> [Kobo](https://www.kobo.com/us/en/ebook/triple-strike-threads-unbound) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1147183873) <br>
+| ![Triple Strike: Threads Unbound ](/images/triplestrike/book4_cover.png "Triple Strike: Threads Unbound"){:width="400px"} | Available in paperback on: <br> [Amazon](https://www.amazon.com/dp/B0F29LS2K6) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1147183873) <br> [Salient Books](https://salientbooks.shop/products/triple-strike-threads-unbound) <br><br> Available as ebook on: <br> [Amazon](https://www.amazon.com/dp/B0F27LQD42) <br> [Kobo](https://www.kobo.com/us/en/ebook/triple-strike-threads-unbound) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1147183873) <br><br> Additional info on [Books2Read](https://books2read.com/u/3yxOXe)
  
 
 Also available on itch.io as a DRM-free .epub!
