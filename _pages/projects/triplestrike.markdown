@@ -29,7 +29,13 @@ feature_row2:
     image_size: 50%
     alt: "Book 4 Threads Unbound book cover"
     title: "Book 4: Threads Unbound"
-    excerpt: "Fate's tangled weave opens a new way forward!"	
+    excerpt: "Fate's tangled weave opens a new way forward!"
+  - url: /projects/triplestrike/starfarersdream
+    image_path: images/triplestrike/book5_cover.png
+    image_size: 50%
+    alt: "Book 5 Starfarer's Dream book cover"
+    title: "Book 5: Starfarer's Dream"
+    excerpt: "A Dream Realized as the Final Tapestry is Woven!"		
 
 permalink: /projects/triplestrike
 ---
