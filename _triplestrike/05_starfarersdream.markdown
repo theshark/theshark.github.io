@@ -23,8 +23,7 @@ permalink: /projects/triplestrike/starfarersdream
 
 ## Available April 24!
 
-| ![Triple Strike: Starfarer's Dream ](/images/triplestrike/book5_cover.png "Triple Strike: Starfarer's Dream"){:width="400px"} | Pre-order ebook on: <br> [Amazon](https://www.amazon.com/dp/B0GTD116Q9)
- 
+| ![Triple Strike: Starfarer's Dream ](/images/triplestrike/book5_cover.png "Triple Strike: Starfarer's Dream"){:width="400px"} | Preorder as paperback on: [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1149895741) <br><br> Preorder as ebook on: <br> [Amazon](https://www.amazon.com/dp/B0GTD116Q9) <br> [Kobo](https://www.kobo.com/us/en/ebook/triple-strike-4) <br> [Barnes & Noble](https://www.barnesandnoble.com/w/triple-strike-g-m-gray/1149895741?ean=9798987621394)
 
 Pre-order on itch.io as a DRM-free .epub!
 
